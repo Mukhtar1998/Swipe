@@ -196,7 +196,6 @@ footer{
       / Style the hamburger menu /
       nav a.icon {
         display: block;
-        position: absolute;
         right: 0;
         top: 0;
         padding: 14px 16px;
